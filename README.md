@@ -1,8 +1,8 @@
 ### Hi, I'm Daniella 👋
 
-Product & Program Manager with a background spanning operations, business analysis, and cross-functional delivery (Amazon, Revolut, Deel, and others) — currently exploring what it looks like to build with AI-native tools hands-on, not just manage around them.
+I build small, useful tools for problems I actually have — designed and shipped end-to-end with AI-native workflows (Claude Code for development, ElevenLabs for voice). I'm fascinated by how AI collapses the distance between "I wish this existed" and "it's live" — most of what's below went from idea to deployed in days, not months.
 
-The two projects below are small apps I designed and shipped end-to-end with [Claude Code](https://claude.com/claude-code) — data model, UI, and logic — to get real experience with how AI-assisted development actually works day to day.
+When I'm not building: designing for my handmade accessories brand, teaching English online, and being told by my dog that it's walk time.
 
 **📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/daniellaseberini) · [daniellaseberini@gmail.com](mailto:daniellaseberini@gmail.com)
 
