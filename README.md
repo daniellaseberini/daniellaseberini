@@ -10,8 +10,17 @@ When I'm not building: designing for my handmade accessories brand, teaching Eng
 
 ### 🛠️ Projects
 
-**[Cycle & Mood Tracker](https://github.com/daniellaseberini/mood-cycle-tracker)** — [live demo](https://mood-cycle-tracker.vercel.app)
-A local-first PWA for tracking mood, sleep, diet and symptoms alongside menstrual cycle predictions, with a computed wellness score and pattern insights generated from your own logged data.
+**Cycle & Mood Tracker — live demo**
 
-**[FODMAP Scanner](https://github.com/daniellaseberini/fodmap-scanner)**
-A PWA that scans a meal (photo or text) and scores it for FODMAP content, with an AI chat assistant for gut-health questions.
+The motivation: I wanted to understand my own patterns — how sleep, diet, and cycle phase actually affect my mood — without handing that data to an app company. So I built a tracker where everything stays on your device: no account, no server, no analytics.
+What it does: Daily logging (mood, sleep, diet, symptoms), a computed wellness score with transparent weighting, trend insights by cycle phase, and period prediction. Local-first PWA; friends and family use it too.
+
+**FODMAP Scanner**
+
+The motivation: Eating plant-based with a sensitive gut means constantly checking whether ingredients are high-FODMAP — I was doing the same lookups over and over. So I automated my own habit.
+What it does: Scan a meal by photo or text and get a FODMAP score, plus an AI chat assistant for gut-health questions.
+
+**Article to Audio**
+
+The motivation: I kept saving articles I never got back to reading — and I'd been designing custom AI voices in ElevenLabs for fun. This connects the two: my own narrators reading me my backlog.
+What it does: Paste an article URL, choose a narrator (voices I designed myself), pick a pace, get a downloadable narration. Flask backend keeps the API key server-side; editorial-style UI.
